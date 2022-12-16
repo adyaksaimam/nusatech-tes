@@ -4,9 +4,9 @@
 
 tabel file:
 
-assets
-  - icon.png
-components
-  - AssetExample.js
+- assets
+   > icon.png
+- components
+   > AssetExample.js
 App.js
 package.json
