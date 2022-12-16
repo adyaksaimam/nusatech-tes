@@ -8,5 +8,5 @@ tabel file:
    > icon.png
 - components
    > AssetExample.js
-App.js
-package.json
+- App.js
+- package.json
